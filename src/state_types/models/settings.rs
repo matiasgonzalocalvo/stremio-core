@@ -129,7 +129,7 @@ impl Default for Settings {
             subtitles_color: "#fff".to_string(),
             subtitles_outline_color: "#000".to_string(),
             autoplay_next_vid: "false".to_string(),
-            server_url: "https://stremioshell/".to_string(),
+            server_url: "https://stremioshell.mgcalvo.com/".to_string(),
             use_external_player: "false".to_string(),
             pause_on_lost_focus: "false".to_string(),
             show_vid_overview: "false".to_string(),
